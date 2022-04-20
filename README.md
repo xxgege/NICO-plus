@@ -1,4 +1,4 @@
-# NICO-plus
+# NICO++
 The Official Repository for dataset  NICO++ and Paper "NICO++: Towards Better Benchmarking for Domain Generalization" (https://arxiv.org/abs/2204.08040).
 
 ![The OOD/DG problem](https://pic.imgdb.cn/item/62592ff2239250f7c5affdd6.jpg?raw=true "Title")
