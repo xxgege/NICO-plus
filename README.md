@@ -27,7 +27,10 @@ The released data (for NICO challenge) is available at [Dropbox](https://www.dro
 
 # Sources
 The website for NICO++ dataset and NICO challenge is [here](https://nicochallenge.com/).
+
 The NICO challenge on Codalab can be found at:
+
 [Track1: Common Context Generalization](https://codalab.lisn.upsaclay.fr/competitions/4084)
+
 [Track2: Hybrid Context Generalization](https://codalab.lisn.upsaclay.fr/competitions/4083)
 
