@@ -2,7 +2,7 @@
 The Official Repository for dataset  NICO++ and Paper "NICO++: Towards Better Benchmarking for Domain Generalization" (https://arxiv.org/abs/2204.08040).
 
 
-<img src=“https://pic.imgdb.cn/item/62592ff2239250f7c5affdd6.jpg”>
+![alt text](https://pic.imgdb.cn/item/62592ff2239250f7c5affdd6.jpg)
 The goal of NICO++ dataset and NICO challenge is to facilitate the OOD (Out-of-Distribution) generalization in visual recognition through promoting the research on the intrinsic learning mechanisms with native invariance and generalization ability. The training data is a mixture of several observed contexts while the test data is composed of unseen contexts. Participants are tasked with developing reliable algorithms across different contexts (domains) to improve the generalization ability of models.
 
 https://pic.imgdb.cn/item/625bc201239250f7c5a9893d.png
