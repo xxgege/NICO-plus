@@ -23,4 +23,7 @@ To boost the heterogeneity and availability of NICO++, the contexts in NICO++ ar
 ![NICO++ statistics](https://pic.imgdb.cn/item/625f9bf9239250f7c573ffa5.jpg?raw=true "Title")
 
 # Download
+The released data (for NICO challenge) is available at [Dropbox](https://www.dropbox.com/sh/u2bq2xo8sbax4pr/AADbhZJAy0AAbap76cg_XkAfa?dl=0) or here [Tsinghua Cloud](https://cloud.tsinghua.edu.cn/d/95c45052e2ca41b0ac2e/). You can also free to use NICO++ data for your research for non-economic purpose.
+
+# Sources
 
