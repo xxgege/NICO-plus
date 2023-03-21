@@ -34,3 +34,6 @@ The NICO challenge on Codalab can be found at:
 
 [Track2: Hybrid Context Generalization](https://codalab.lisn.upsaclay.fr/competitions/4083)
 
+# Benchmark
+The code for the benchmark based on NICO++ will be released soon.
+
